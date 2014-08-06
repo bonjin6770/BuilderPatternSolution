@@ -1,4 +1,7 @@
 ﻿namespace WaterBuilderLibrary {
+    /// <summary>
+    /// 
+    /// </summary>
     public interface IBuilder {
         /// <summary>
         /// 溶質を追加する
